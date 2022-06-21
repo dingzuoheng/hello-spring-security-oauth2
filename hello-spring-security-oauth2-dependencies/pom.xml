@@ -9,7 +9,7 @@
     <properties>
         <spring-boot-mapper.version>2.1.5</spring-boot-mapper.version>
         <spring-cloud.version>Greenwich.RELEASE</spring-cloud.version>
-        <mysql.version>8.0.19</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
     </properties>
 
 
